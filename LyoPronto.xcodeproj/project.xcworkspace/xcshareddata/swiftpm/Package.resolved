@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftsideways",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/openalloc/SwiftSideways.git",
+      "state" : {
+        "revision" : "794cd1b87d64b62fa844e1ac8dc3f4af9f24c30a",
+        "version" : "0.5.4"
+      }
+    },
+    {
+      "identity" : "swifttabler",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/openalloc/SwiftTabler.git",
+      "state" : {
+        "revision" : "863e1be58e49a68ae84184e471f400ff4d760bda",
+        "version" : "0.9.7"
+      }
+    }
+  ],
+  "version" : 2
+}
